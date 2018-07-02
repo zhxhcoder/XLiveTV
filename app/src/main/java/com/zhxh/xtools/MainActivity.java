@@ -1,4 +1,4 @@
-package com.zhxh.android.xtools;
+package com.zhxh.xtools;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
