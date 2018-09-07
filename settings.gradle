@@ -1,1 +1,1 @@
-include ':app', ':xtoolslib'
+include ':app'
